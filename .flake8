@@ -1,0 +1,8 @@
+[flake8]
+max-line-length = 90
+exclude =   
+        .flake8,
+        .git, 
+        .idea, 
+        .vscode, 
+        __pycache__
